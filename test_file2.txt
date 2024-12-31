@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C050-1023
+
+ Directory of D:\Sesha Sai\Learnings\Test git
+
+31-12-2024  21:36    <DIR>          .
+31-12-2024  20:55    <DIR>          ..
+31-12-2024  20:56                 0 test1.txt
+31-12-2024  20:56                 0 TestFile.txt
+31-12-2024  21:36               445 test_file2
+31-12-2024  21:36                 0 test_file2.txt
+               4 File(s)            445 bytes
+               2 Dir(s)  107,147,259,904 bytes free
